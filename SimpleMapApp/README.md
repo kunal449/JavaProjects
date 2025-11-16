@@ -5,7 +5,7 @@ You can play with the map.
 
 Project Setup Details :
 
-Java : 1.6 or latest
+Java : 2.4 or  latest
 
 Import project in Eclipse and you can extend it. 
 
